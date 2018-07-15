@@ -1,1 +1,1 @@
-web: ruby Index.html
+web: ruby index.html
