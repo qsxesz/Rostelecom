@@ -1,1 +1,1 @@
-web: ruby main.css
+web: ruby Index.html
