@@ -1,1 +1,1 @@
-rake jobs:work
+web: index.http
